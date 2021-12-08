@@ -63,6 +63,8 @@
                 <Label Text="Visibility" FontSize="Medium" />
                 <Label Text="{Binding Weather[0].Visibility}" TextColor="Black"  />
 
+                <Label Text="Sunrise"></Label>
+
    
             </StackLayout>
         </ScrollView>
